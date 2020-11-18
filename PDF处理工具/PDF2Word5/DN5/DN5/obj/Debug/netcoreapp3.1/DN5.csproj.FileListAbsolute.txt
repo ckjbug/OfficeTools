@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.exe
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.deps.json
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.runtimeconfig.json
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.dll
+C:\Users\Administrator\Desktop\DN5\DN5\bin\Debug\netcoreapp3.1\DN5.pdb
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.dll
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.pdb
+C:\Users\Administrator\Desktop\DN5\DN5\obj\Debug\netcoreapp3.1\DN5.genruntimeconfig.cache

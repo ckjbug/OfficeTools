@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\obj\Debug\PDF2Word.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\PDF2Word.exe.config
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\PDF2Word.exe
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\PDF2Word.pdb
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\obj\Debug\PDF2Word.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\obj\Debug\PDF2Word.exe
+C:\Users\Administrator\Desktop\PDF2Word\PDF2Word\obj\Debug\PDF2Word.pdb
