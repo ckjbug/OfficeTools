@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.exe
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.deps.json
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.runtimeconfig.json
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.dll
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\bin\Debug\netcoreapp3.1\TooLists.pdb
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.Form1.resources
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.dll
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.pdb
+C:\Users\Administrator\Desktop\OfficeTools\TooLists\obj\Debug\netcoreapp3.1\TooLists.genruntimeconfig.cache
