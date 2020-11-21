@@ -25,7 +25,9 @@ pause
 
 > -dPDFSETTINGS=/default,缺省的，即大多数情况使用的压缩方式
 
+```
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dDownsampleColorImages=true -dColorImageResolution=130 -dNOPAUSE -dBATCH -sOutputFile=output.pdf input.pdf
+```
 
 > -dColorImageResolution=130可以设置图像DPI大小
 
